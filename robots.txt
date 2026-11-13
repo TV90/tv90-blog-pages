@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tv90.github.io/tv90-blog-pages/sitemap.xml
